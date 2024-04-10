@@ -3,3 +3,10 @@
 2. Use of comments in HTML or in general is to write notes or explanation for the code you have written. This helps the developer who might work on your code in the future.
 Eg: <!-- use of highest priority heading  -->
     <h1>HTML defines content and structure of your website.</h1>
+
+4. Tags are the starting and ending parts of an HTML element. They begin with < symbol and end with > symbol
+    eg: <h1></h1>
+    While element consists of both the opening and closing tags as well as what’s inside those tags,i.e, content.
+    eg: <h1>HTML defines content and structure of your website.</h1>
+
+5. The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page is written in.
